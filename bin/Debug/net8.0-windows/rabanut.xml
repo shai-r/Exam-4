@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Queries>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>21</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשפ"ז</Year>
+    <Result>בשלישי בשבת אחד ועשרים יום לירח כסלו שנת חמשת אלפים ושבע מאות ושמנים ושבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayMonth>21</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשפ"ז</Year>
+    <Result>בשלישי בשבת אחד ועשרים יום לירח כסלו שנת חמשת אלפים ושבע מאות ושמנים ושבע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>30</DayMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ט</Year>
+    <Result>באחד בשבת יום שלשים לחדש אדר שהוא ראש חודש ניסן שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>1</DayMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ט</Year>
+    <Result>באחד בשבת יום אחד לירח אדר שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>9</DayMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ט</Year>
+    <Result>באחד בשבת תשעה ימים לירח אדר שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>24</DayMonth>
+    <Month>אדר</Month>
+    <Year>תשפ"ט</Year>
+    <Result>באחד בשבת ארבעה ועשרים יום לירח אדר שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>13</DayMonth>
+    <Month>אלול</Month>
+    <Year>תשפ"ט</Year>
+    <Result>באחד בשבת שלשה עשר יום לירח אלול שנת חמשת אלפים ושבע מאות ושמנים ותשע לבריאת העולם</Result>
+  </Query>
+</Queries>
